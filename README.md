@@ -22,6 +22,9 @@ npm run dev
 5. Follow the steps to [connect an app to PlanetScale](https://docs.planetscale.com/tutorials/connect-any-application)
    - PlanetScale really just guides you through generating access credentials
    - Remainder of steps were basically following [this more detailed Node-specific guide from PlanetScale](https://planetscale.com/blog/create-a-harry-potter-api-with-node-js-express-mysql-and-planetscale)
+6. Downloaded [ArcType](https://arctype.com)
+   - Not very familiar with SQL yet, this looks like a nice way to get started with a GUI-y explorer that's PlanetScale-friendly
+   - So far so good! Was very straightforward, ArcType talked directly with the PlanetScale CLI to get connected, which is pretty nice and smooth.
 
 ## Next steps
 
